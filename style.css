@@ -1,0 +1,287 @@
+font-family: 'Montserrat', sans-serif;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+ h1 {
+   font-weight: 700px;
+   color: #34105A;
+   padding:0px;
+   margin:0px;
+ }
+
+#calendar {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+
+#demobox {
+  background-color: #E8D7F8 ;
+  padding: 10px ;
+  width: 60%;
+  text-align: center;
+}
+
+#demobox1 {
+  background-color: #E8D7F8 ;
+  padding-left: 20px;
+  padding-right: 5px;
+  padding-top: 7px;
+  padding-top: 7px;
+  width: 68.4%;
+  margin-top: 10px;
+}
+
+#dropdown_style {
+  background-color: #E8D7F8 ;
+  padding: 10px ;
+  width: 60%;
+  text-align: left;
+  padding-left: 40px;
+  radius:0px;
+  color:#34105A;
+  font-size: 25px;
+  font-weight:bold;
+}
+
+.form_stuff {
+    background-color: #E8D7F8 ;
+    padding: 10px ;
+    width: 60%;
+    text-align: left;
+    padding-left: 40px;
+    color:#E8D7F8;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.form_stuff-login {
+    padding: 10px ;
+    width: 60%;
+    text-align: left;
+    padding-left: 40px;
+    color:#000;
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+}
+
+.form_stuff_profile {
+    background-color: #E8D7F8 ;
+    padding: 5px ;
+    width: 100%;
+    text-align: left;
+    padding-left: 20px;
+    color:#E8D7F8;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.col-xs-4 {
+  width:60%
+}
+.col-xs-5 {
+  width:100%
+}
+/*
+input[type=text] {
+  background-color: #E8D7F8;
+  color: #34105A;
+}*/
+
+#text {
+  background-color: #E8D7F8;
+  color: #34105A;
+}
+
+select[type=drop] {
+  background-color: #E8D7F8;
+  color: #34105A;
+}
+
+.form-control{
+  border-radius: 0px;
+}
+
+.rectangle-button {
+  background: #EF5656;
+  border-radius: 15px;
+  border-color: #EF5656;
+  border-width: 0px;
+  padding: 10px 15px;
+  color: #fff;
+  margin: 0px 10px 0px 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:bold;
+}
+
+.rectangle-button2 {
+  background: #EF5656;
+  border-radius: 15px;
+  border-color: #EF5656;
+  border-width: 0px;
+  padding: 5px 10px;
+  color: #fff;
+  margin: 0px 10px 0px 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:bold;
+  font-size: 12px;
+}
+
+
+
+.footer-spacing {
+  padding-top: 100px;
+}
+
+
+.navbar{
+    height: 60px;
+    z-index:-1;
+}
+
+.nav-link{
+    padding:0px;
+    border-radius: 10px;
+    margin-left: 10px;
+    text-align: center;
+    line-height: 82px;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    font-weight: 500;
+    font-size: 12pt;
+    font-style:normal;
+    font-family: 'Montserrat', sans-serif;
+    background-color:#EF5656;
+}
+a:any-link{
+    text-decoration: inherit;
+}
+.nav-linksp{
+    position:relative;
+    font-weight:bold;
+    font-size: 14pt;
+    margin-right: 200px;
+    z-index:100;
+}
+
+.spanc{
+    background-color: #6927AF;
+    height: 22px;
+    top: 37px;
+}
+
+.s1{
+    position: absolute;
+    width: 55px;
+    left: 250px;
+    z-index: 10;
+}
+.s2{
+    position: absolute;
+    width: 100px;
+    left: 496px;
+    z-index: 10;
+}
+
+.s3{
+    position: absolute;
+    z-index: 10;
+    width: 150px;
+    left: 779px;
+}
+
+.foot{
+    font-weight: bold;
+    width:300px;
+    height: 50px;
+    line-height: 50px;
+    list-style-type:none;
+    color:#EF5656;
+    font-family: 'Montserrat', sans-serif;
+    /*margin-top:10px;*/
+}
+.footlist{
+    position: relative;
+    top: 50px;
+}
+.footer{
+    width:100%;
+    height: 230px;
+    line-height: 230px;
+    background-color: #E8D7F8;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    right: 0;
+}
+
+.login-nav {
+  height:100px;
+  background-color: #34105A;
+  width: 100%;
+}
+
+.login-box {
+  height:30px;
+  text-align: center;
+  width:30%;
+  background-color: #6927AF;
+  margin: auto;
+  justify-content: center;
+  position: relative;
+}
+
+.login {
+  font-family: 'Montserrat', sans-serif;
+  color:#fff;
+  text-align: center;
+  font-size: 65px;
+  position: relative;
+  top: -70;
+}
+
+#bolded {
+  font-weight: bold;
+
+}
+
+#text-login {
+  background-color: #FFF;
+  color: #000;
+}
+
+.login-field {
+  border-radius: 30px;
+  border-color: #EF5656;
+  border-width: 7px;
+}
+
+.page-margin {
+  margin-left: 32%;
+  margin-right: 10%;
+}
+
+.profile-label{
+  color: #34105A;
+}
+
+.checkboxes {
+  color: #34105A;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.chat {
+  background-image: url("chat.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  background-size: 100%;
+}
+
+body{
+    background-image: url(Vector 1.svg);
+    background-size: cover;
+    background-attachment: fixed;
+}
